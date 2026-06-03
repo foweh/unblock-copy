@@ -2,11 +2,11 @@
 // @name         解除网页复制限制
 // @name:en      Unblock Copy
 // @name:zh-CN   解除网页复制限制
-// @namespace    https://github.com/{YOUR_USERNAME}/unblock-copy
+// @namespace    https://github.com/foweh/unblock-copy
 // @version      1.0.0
 // @description  🚀 一键解除网页禁止复制、禁止粘贴、禁止选中、禁止右键菜单！安装即用，无需任何设置。支持百度文库、知乎、简书、CSDN 等绝大多数网站。
 // @description:en 🚀 One-click unlock: copy, paste, text selection & right-click on any website. Just install and go. No config needed.
-// @author       {YOUR_USERNAME}
+// @author       foweh
 // @license      MIT
 // @match        *://*/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=greasyfork.org
@@ -17,8 +17,8 @@
 // @grant        GM_addStyle
 // @grant        GM_notification
 // @run-at       document-start
-// @supportURL   https://github.com/{YOUR_USERNAME}/unblock-copy/issues
-// @homepageURL  https://github.com/{YOUR_USERNAME}/unblock-copy
+// @supportURL   https://github.com/foweh/unblock-copy/issues
+// @homepageURL  https://github.com/foweh/unblock-copy
 // ==/UserScript==
 
 (function () {

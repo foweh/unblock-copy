@@ -26,7 +26,7 @@
 ### 如果你懂油猴（Tampermonkey）
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 浏览器插件（Chrome / Edge / Firefox 都有）
-2. [点击这里安装本脚本](https://github.com/{YOUR_USERNAME}/unblock-copy/raw/main/unblock-copy.user.js)
+2. [点击这里安装本脚本](https://github.com/foweh/unblock-copy/raw/main/unblock-copy.user.js)
 3. 点「安装」
 4. **搞定！** 打开任何一个以前不能复制的网页试试
 
@@ -50,7 +50,7 @@
 
 点击下面的链接：
 
-👉 **[点我安装 解除网页复制限制](https://github.com/{YOUR_USERNAME}/unblock-copy/raw/main/unblock-copy.user.js)**
+👉 **[点我安装 解除网页复制限制](https://github.com/foweh/unblock-copy/raw/main/unblock-copy.user.js)**
 
 Tampermonkey 会弹出一个页面，点「安装」就行了。
 
@@ -81,7 +81,7 @@ Tampermonkey 会弹出一个页面，点「安装」就行了。
 - 🏫 各种考试/论文网站
 - 🌍 其他任何禁止复制的网站
 
-> 如果遇到某个网站无效，请 [提 Issue](https://github.com/{YOUR_USERNAME}/unblock-copy/issues)，我会尽快修复。
+> 如果遇到某个网站无效，请 [提 Issue](https://github.com/foweh/unblock-copy/issues)，我会尽快修复。
 
 ---
 
